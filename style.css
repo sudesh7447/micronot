@@ -1,0 +1,91 @@
+
+#starting{
+  margin: 0 3% ;
+}
+#shod{
+  color: 	#404040;
+}
+#wording{
+  padding-top: 6%;
+  padding-right: 3%;
+  padding-left: 0.5%;
+}
+#chamka{
+  color: white;
+  text-decoration: none;
+}
+#features{
+  text-align: center;
+  padding: 5% 25%;
+  color: black;
+}
+#four-horse{
+  text-align: center;
+  padding: 3% 5%;
+  text-decoration: none;
+}
+a.sud:hover{
+  text-decoration: none;
+}
+.sud{
+  font-weight: bold;
+  color: black;
+  font-size: 1rem;
+}
+#chamka:hover{
+    text-decoration-color: black;
+}
+
+a:hover{
+  text-decoration: none;
+  border-bottom: 2px solid black;
+  padding-top:1px 0;
+}
+body{
+  background-color: white;
+}
+#phot{
+  padding:5% 3% 5% 3%;
+  background-color: #fff5ee;
+}
+#phot-2{
+  padding:5% 3% 5% 3%;
+  background-color: #E4EFE7;
+}
+
+.carousel-indicators .active{
+    background-color: #000;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
+#edge{
+  text-align: center;
+  padding: 3% 25%
+}
+
+/* covid */
+#covid{
+  text-align: center;
+  background-color: #C9D6DF;
+  padding: 1% 7%;
+  margin: 1% 7%;
+}
+
+#footer{
+  padding: 3% 7%;
+}
+
+
+/* Mobile ke liye chaliye shuru karte he */
+@media (max-width = 1000px) {
+  body{
+    text-align: center;
+  }
+  #slides{
+    
+  }
+
+
+}
